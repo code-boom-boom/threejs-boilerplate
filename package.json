@@ -1,0 +1,23 @@
+{
+  "name": "theaviator",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "npx eslint src --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^9.1.0",
+    "gsap": "^3.12.4",
+    "lil-lib": "^1.0.3",
+    "prettier": "^3.1.1",
+    "three": "^0.160.0"
+  }
+}
